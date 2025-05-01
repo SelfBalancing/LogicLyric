@@ -6,9 +6,12 @@
 ![预览](https://LogicLyric.maresera.top/)
 
 ## ✨特性
+
 · ✅ 白天 / 黑夜 模式可用
-· 🛠️ 博客易上手
-· 📚 支持Markdown
+
+· ✅🛠️ 博客易上手
+
+· ✅📚 支持Markdown
 
 ## ✒️ 文章信息
 
