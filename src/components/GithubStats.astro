@@ -11,7 +11,7 @@ const stats = await getGitHubStats(username);
   <!-- 加载状态处理 -->
   {stats.repos === 0 ? (
     <div class="text-center py-8 text-secondary">
-      GitHub 数据加载失败，请稍后刷新
+      未配置或错误配置了.env中的GITHUB_TOKEN
     </div>
   ) : (
     <div class="grid md:grid-cols-2 gap-8">
